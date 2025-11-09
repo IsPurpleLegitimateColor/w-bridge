@@ -1,2 +1,4 @@
 .codex/*
 store/*.db
+.codex/auth.json
+.golangci.yml
